@@ -1,0 +1,27 @@
+.img-circle{
+  margin-left: 500px;
+}
+.employee-name{
+  text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+
+}
+
+th{
+  background-color:#FFCCB9 ;
+}
+
+td:hover{
+   background-color: #99C1CC;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
